@@ -1,0 +1,27 @@
+{
+  "name": "onehacks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenbai0724/OneHacks.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenbai0724/OneHacks/issues"
+  },
+  "homepage": "https://github.com/stevenbai0724/OneHacks#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "concurrently": "^7.2.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
